@@ -40,7 +40,7 @@
     </dependencies>
 
     <build>
-
+        <finalName>chapter1</finalName>
         <plugins>
             <!-- Compile -->
             <plugin>
